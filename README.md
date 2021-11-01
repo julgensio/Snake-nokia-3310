@@ -1,6 +1,8 @@
 Snake nokia 3310 game 
 
-For education purpose
+For education purpose,
+
+A vanilla JavaScript grid-based game | In this tutorial you will learn how to make a fully functional game of Nokia 3310 Snake
 
 MIT Licence
 Copyright (c) 2020 Ania Kubow
